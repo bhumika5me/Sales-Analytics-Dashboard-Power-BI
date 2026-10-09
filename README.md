@@ -245,4 +245,3 @@ The Sales Analytics Dashboard demonstrates how Power BI can transform raw sales 
 
 Through data preparation, data modeling, DAX measures, and interactive visualizations, this project provides a practical analysis of sales performance, profitability, products, customers, and regional trends.
 
-It showcases foundational data analytics skills and serves as a portfolio project for demonstrating practical Power BI experience.
