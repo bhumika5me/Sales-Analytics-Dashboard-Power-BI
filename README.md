@@ -189,7 +189,7 @@ The dashboard can be used to identify:
 
 ## 📸 Dashboard Preview
 
-<img width="1202" height="676" alt="image" src="https://github.com/user-attachments/assets/f5cbf31a-a4f4-4c0e-8d8f-573a421e4372" />
+<img width="1124" height="626" alt="dashboard" src="https://github.com/user-attachments/assets/9e55891a-792a-43f0-b713-e43709e3ce6d" />
 
 
 ## 📁 Project Structure
